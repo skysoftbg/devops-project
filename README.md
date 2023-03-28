@@ -20,3 +20,11 @@ Expected Deliverables:
 
 Steps:
 
+1. Install AWS ClI
+2. Create AWS Secutiy Credentials
+3. Configure AWS CLI 
+4. Install Terraform
+5. Create Keypair
+6. Copy public and private key's.
+7. Use terraform to deploy and lanh instance in AWS.
+8. Entire process is packed in setup.sh just execute it to deploy!!!
