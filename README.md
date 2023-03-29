@@ -27,4 +27,5 @@ Steps:
 5. Create Keypair
 6. Copy public and private key's.
 7. Use terraform to deploy and lanh instance in AWS.
-8. Entire process is packed in setup.sh just execute it to deploy!!!
+8. Entire process is packed in setup.sh just execute it to deploy on Ubuntu!!!
+9. See history.txt for details!!!
