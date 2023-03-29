@@ -29,3 +29,4 @@ Steps:
 7. Use terraform to deploy and lanh instance in AWS.
 8. Entire process is packed in setup.sh just execute it to deploy on Ubuntu!!!
 9. See history.txt for details!!!
+10. Direct deployment from bash - bash < <(curl -s https://raw.githubusercontent.com/skysoftbg/devops-project/main/setup.sh)
