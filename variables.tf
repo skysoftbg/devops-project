@@ -22,12 +22,6 @@ variable "access_ip" {
   default = "0.0.0.0/0"
 }
 
-#Cloud9 public IP address
-variable "cloud9_ip" {
-  type    = string
-  default = "1.1.1.1/32"
-}
-
 variable "instance_count" {
   type    = number
   default = 1
